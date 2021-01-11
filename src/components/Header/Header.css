@@ -3,7 +3,7 @@
     background-size: cover;
     background-position: center;
     position: relative;
-    background-color: darkblue;
+    background-color: rgb(15, 29, 66);
     color: white;
     border-bottom: 5px solid red;    
   }
