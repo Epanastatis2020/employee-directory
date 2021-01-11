@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import API from "../../api/API"
-import Nav from "./Nav";
-import DataTable from "./DataTable";
+import Nav from "../Nav/Nav"
+import DataTable from "./TableData";
 
 class DataArea extends Component {
   state = {

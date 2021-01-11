@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/datatable.css';
+import './Table.css';
 import dateFormat from 'dateformat';
 
 function DataTable(props) {
