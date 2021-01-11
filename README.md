@@ -34,7 +34,7 @@ To install Employee Directory:
 2. Run `npm start` and press Enter to continue.
 3. A web browser window should open automatically - if it doesn't, you can open a web browser and navigate to https://localhost:3000.
 
-Alternatively, you can use this app at the deployed location [here](#linkhere).
+Alternatively, you can use this app at the deployed location [here](http://epanastatis2020.github.io/employee-directory).
 
 ## License
 
